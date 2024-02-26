@@ -1,0 +1,38 @@
+:root{
+    --cor_botao_clicado:rgb(68, 68, 182);
+    --cor_botao_n_clic:rgb(146, 146, 221);
+    --cor_fundo:rgb(117, 63, 167);
+    --cor_titulo:rgb(0, 0, 255);
+    
+    
+    }
+    body{
+        background-color:var(--cor_fundo);
+    
+    
+    }
+    h1{
+        color:var(--cor_titulo);
+       
+    
+    }
+    .principal{
+        border: rgb(33, 17, 92) 2px solid; 
+        text-align: center;
+        height: 400px;
+        
+    
+    }
+    h3{
+        font-size: 30px;
+        background-color: rgb(171, 143, 197);
+        border-radius: 200px;
+        justify-content: center;
+        align-items:center ;
+        display: flex;
+        flex-wrap: wrap;
+       
+    
+    }
+   
+    
